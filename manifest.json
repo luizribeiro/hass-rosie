@@ -1,0 +1,11 @@
+{
+  "domain": "rosie_conversation",
+  "name": "Rosie Conversation",
+  "version": "0.0.1",
+  "codeowners": ["@luizribeiro"],
+  "config_flow": true,
+  "dependencies": ["conversation"],
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "requirements": []
+}
